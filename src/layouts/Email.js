@@ -20,6 +20,7 @@ export default function Email() {
        </div>
        <h1>HELLO WORLD</h1>
        <h1>HELLO WORLD</h1>
+       <h1>HELLO WORLD</h1>
         </SideEmail>
     )
 }
